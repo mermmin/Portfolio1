@@ -1,0 +1,35 @@
+/* styles.css */
+
+/* Common styles for headings and links */
+h2, h3 {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Projects section */
+#projects {
+    margin-top: 20px;
+}
+
+.project {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Socials section */
+#socials {
+    margin-top: 20px;
+}
+
+.social-link {
+    margin-bottom: 10px;
+}
+
+/* Add more styles as needed */
